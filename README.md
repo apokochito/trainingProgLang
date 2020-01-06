@@ -1,3 +1,3 @@
 # codeKatas
 
-A repository with code challenges
+A repository with code challenges on Java language
