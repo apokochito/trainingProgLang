@@ -2,8 +2,8 @@
 
 A repository with code challenges on Programming languages
 
-1. Java
+1. Elixir
 
-2. Python
+2. Java
 
-3. Elixir
+3. Python
