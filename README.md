@@ -1,6 +1,6 @@
 # codeKatas
 
-A repository with code challenges on Programming languages
+A repository with code challenges on Programming languages from codewars.com
 
 1. Elixir
 
