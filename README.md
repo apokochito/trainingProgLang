@@ -7,3 +7,5 @@ A repository with code challenges on Programming languages from codewars.com
 2. Java
 
 3. Python
+
+4. Javascript
